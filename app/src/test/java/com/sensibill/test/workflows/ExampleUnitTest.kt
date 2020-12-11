@@ -1,7 +1,6 @@
 package com.sensibill.test.workflows
 
 import org.junit.Test
-
 import org.junit.Assert.*
 
 /**
